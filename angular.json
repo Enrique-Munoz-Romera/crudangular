@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "crudangular"
+    }
+  },
+  "defaultProject": "crudangular",
+  "cli": {
+    "analytics": false
+  }
 }
